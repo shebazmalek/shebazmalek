@@ -1,0 +1,2 @@
+# shebazmalek
+oracle database stuff
